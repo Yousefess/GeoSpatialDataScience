@@ -1,5 +1,9 @@
 # UP221: Introduction to GIS and Spatial Data Science
 
+![GitHub last commit](https://img.shields.io/github/last-commit/Yousefess/24W-UP221)
+![GitHub repo size](https://img.shields.io/github/repo-size/Yousefess/24W-UP221)
+![GitHub top language](https://img.shields.io/github/languages/top/Yousefess/24W-UP221)
+
 Winter 2024
 
 ## Course format
@@ -40,17 +44,17 @@ Specifically, students will learn to:
 
 Week | Topic | Assignment
 :---: | :---: | :---:
-Week 1 | [Introduction to spatial data science](#)
-Week 2 | [Data in Urban Studies: The challenge in data acquisition](#) | [Group assignment #1: Project Proposal](#)
-Week 3 | [Understanding communities: Census data profiles](#) | [Group assignment #2: Census Data Exploration](#)
-Week 4 | [Open Street Maps](#)
-Week 5 | [Open data and APIs](#)
-Week 6 | [Mid-terms](#) | [Midterms](#)
-Week 7 | [Geocoding, multiple overlays, and functions](#) | [Group assignment #3: Data Visualization](#)
-Week 8 | [Spatial statistics](#)
-Week 9 | [Point pattern analysis](#) | [Group assignment #4: Spatial Analysis](#)
+Week 1 | [Introduction to spatial data science](#) | - |
+Week 2 | [Data in Urban Studies: The challenge in data acquisition](#) | [Group assignment #1: Project Proposal](https://github.com/Yousefess/24W-UP221/blob/main/Group%20Assignments/GroupAssignment1.md)
+Week 3 | [Understanding communities: Census data profiles](#) | [Group assignment #2: Census Data Exploration](https://github.com/Yousefess/24W-UP221/blob/main/Group%20Assignments/GroupAssignment2.md)
+Week 4 | [Open Street Maps](#) | - |
+Week 5 | [Open data and APIs](#) | - |
+Week 6 | [Mid-terms](#) | [Midterms](https://github.com/Yousefess/24W-UP221/tree/main/Midterm%20and%20Finals)
+Week 7 | [Geocoding, multiple overlays, and functions](#) | [Group assignment #3: Data Visualization](https://github.com/Yousefess/24W-UP221/blob/main/Group%20Assignments/GroupAssignment3.md)
+Week 8 | [Spatial statistics](#) | - |
+Week 9 | [Point pattern analysis](#) | [Group assignment #4: Spatial Analysis](https://github.com/Yousefess/24W-UP221/blob/main/Group%20Assignments/GroupAssignment4.md)
 Week 10 |[Remote Sensing and Sentiment Analysis](#)
-Finals Week | [Finals](#)
+Finals Week | [Finals](https://github.com/Yousefess/24W-UP221/tree/main/Midterm%20and%20Finals) | - |
 
 ## Readings and Resources
 
