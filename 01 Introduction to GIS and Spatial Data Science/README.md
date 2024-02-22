@@ -40,7 +40,7 @@ Specifically, students will learn to:
 
 Week | Topic | Assignment
 :---: | :---: | :---:
-Week 1 | [Introduction to spatial data science](#) | - |
+Week 1 | [Introduction to spatial data science](https://github.com/Yousefess/GeoSpatialDataScience/tree/main/01%20Introduction%20to%20GIS%20and%20Spatial%20Data%20Science/Weeks/Week%2001%20-%20Introduction%20to%20spatial%20data%20science) | - |
 Week 2 | [Data in Urban Studies: The challenge in data acquisition](#) | [Group assignment #1: Project Proposal](https://github.com/Yousefess/24W-UP221/blob/main/Group%20Assignments/GroupAssignment1.md)
 Week 3 | [Understanding communities: Census data profiles](#) | [Group assignment #2: Census Data Exploration](https://github.com/Yousefess/24W-UP221/blob/main/Group%20Assignments/GroupAssignment2.md)
 Week 4 | [Open Street Maps](#) | - |
