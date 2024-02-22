@@ -1,9 +1,5 @@
 # UP221: Introduction to GIS and Spatial Data Science
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Yousefess/24W-UP221)
-![GitHub repo size](https://img.shields.io/github/repo-size/Yousefess/24W-UP221)
-![GitHub top language](https://img.shields.io/github/languages/top/Yousefess/24W-UP221)
-
 Winter 2024
 
 ## Course format
