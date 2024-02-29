@@ -1,8 +1,4 @@
-# Week 1
-
-## UP221: Introduction to GIS and Spatial Data Science
-
-January 9, 2023
+# Week 1: Introduction to GIS and Spatial Data Science
 
 ## Overview of the course
 
